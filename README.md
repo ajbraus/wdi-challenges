@@ -1,3 +1,3 @@
-#Welcome WDI 19 & 20
+# WDI Challenges Library
 
-This is a repo with the learning modules of WDI 19 & 20.
+This Gitbook is a library of coding challenges that goes together with the readings in the [WDI Tutorials Library](http://ajbraus.gitbooks.io/wdi-homework/content/)
